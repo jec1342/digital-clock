@@ -3,9 +3,10 @@ body {
 }
 
 .clock {
-    position: left;
-    text-align: left;
-    font-family:'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
-    font-size: 50;
+    position: center;
+    text-align: center;
+    display: flex;
+    font-family:monospace;
+    font-size: 50px;
     top: 50;
 }
