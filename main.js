@@ -19,6 +19,10 @@ function updateClock(){
 
 }
 
+
+    
+//conditional statement minutes less than 10 seconds less than 10 add 0
+
     document.getElementById('hours').innerHTML = hours;
     document.getElementById('minutes').innerHTML = minutes;
     document.getElementById('seconds').innerHTML = seconds;
