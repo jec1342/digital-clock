@@ -3,9 +3,9 @@ body {
 }
 
 .clock {
-    position: center;
-    text-align: center;
-    font-family: 'Open Sans';
+    position: left;
+    text-align: left;
+    font-family:'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
     font-size: 50;
     top: 50;
 }
