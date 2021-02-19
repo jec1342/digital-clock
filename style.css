@@ -1,12 +1,25 @@
-body {
-    background: #23B8A6; 
+*{
+    margin: 0;
+    padding: 0;
+
 }
 
-.clock {
-    position: center;
-    text-align: center;
+body{
+    height: 100vh;
     display: flex;
-    font-family:monospace;
+    justify-content: center;
+    align-items: center;
+    background: #23B8A6;
+
+}
+
+.clock{
     font-size: 50px;
-    top: 50;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 3px;
+    align-items: center;
+    color: #C6380E;
+    border-style: solid;
+    padding: 50px;
 }
