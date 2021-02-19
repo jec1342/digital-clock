@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-
 }
 
 body{
@@ -9,20 +8,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #10101e;
-
+    background: #10CF9E;
 }
 
 .clock{
-    font-size: 60px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
-    letter-spacing: 3px;
     align-items: center;
-    color: #fff;
-    border-style: solid;
-    padding: 50px;
-
-
-
+    color: #C6380E;
 }
